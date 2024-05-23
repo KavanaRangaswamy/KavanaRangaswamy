@@ -29,11 +29,15 @@ WME Fashion (July 2022 – Aug 2023): Led automation for WME Fashion, enhancing 
 Connect with me:
 
 [LinkedIn](http://www.linkedin.com/in/kavana-rangaswamy-328886219)
-Email: kavana.ur193@gmail.com
-Languages and Tools:
 
+Email: kavana.ur193@gmail.com
+
+
+Languages and Tools:
 Python, SQL, R, Shell script
 Tableau, Excel, Datawrapper
 AWS, Microsoft Azure
 Power Automate, Visio
+
+
 I look forward to connecting and exploring opportunities in the field of data science and engineering.
